@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋, my name is Franco Samilian
+
+I am a 23 years old Full Stack Developer with academic experience working in JavaScript, NodeJS, React, Redux, SQL, Express, CSS, HTML, Scrum among other technologies in the sector. I am a proactive and fast learner person with the goal of developing myself professionally in the IT world. I like to work as a team to meet the objectives proposed by the company.
+
+Contact email: francosamilian@gmail.com
+
+LinkedIn: http://linkedin.com/in/franco-samilian-058908205
 
 <!--
 **francosamilian/francosamilian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
