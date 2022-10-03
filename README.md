@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is Franco Samilian
 
-I am a 23 year old Full Stack Developer with academic experience working in JavaScript, NodeJS, React, Redux, SQL, Express, CSS, HTML, Scrum among other technologies in the sector. I am a proactive and fast learner person with the goal of developing myself professionally in the IT world. I like to work as a team to meet the objectives proposed by the company.
+I am a 23 year old Full Stack Developer with academic experience working in JavaScript, NodeJS, React, Redux, PostgreSQL, Express, CSS, HTML, Scrum among other technologies in the sector. I am a proactive and fast learner person with the goal of developing myself professionally in the IT world. I like to work as a team to meet the objectives proposed by the company.
 
 
 ### :file_folder: My projects
